@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/24hr-malmo/rawb-middleware#readme",
   "dependencies": {
+    "jsonwebtoken": "8.5.1",
+    "koa-bodyparser": "4.2.1",
+    "koa-compress": "3.0.0",
+    "koa-static": "5.0.0",
     "rawb-site-id-middleware": "1.0.0"
   }
 }
