@@ -1,6 +1,6 @@
 {
   "name": "rawb-middlewares",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A list of Koa middlewares typical used in RAWB projects",
   "main": "index.js",
   "scripts": {
